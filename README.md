@@ -23,7 +23,6 @@ git clone https://github.com/ItzMeCrazy/Backup-Bot-Discord
 
 ```json
 {
-    "token": "Your Discord Bot token",
     "prefix": "b!"
 }
 ```
