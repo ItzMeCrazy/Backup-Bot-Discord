@@ -31,7 +31,7 @@ This command allows you to load a backup in the current server (restricted to ad
 * Clone repository
 
 ```sh
-git clone https://github.com/Androz2091/backups-bot
+git clone https://github.com/ItzMeCrazy/Backup-Bot-Discord
 ```
 
 * Fill configuration (config.json)
